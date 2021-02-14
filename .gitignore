@@ -1,4 +1,5 @@
 *.o
+__pycache__
 *.a
 *.dSYM
 *.csv
